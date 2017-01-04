@@ -1,0 +1,2 @@
+# interface_autotest_project
+基于python+Testlink+Jenkins实现的接口自动化测试框架
